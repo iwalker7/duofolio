@@ -17,7 +17,7 @@
 		"axios": "^0.20.0",
 		"react": "16.11.0",
 		"react-native": "0.62.2",
-		"react-native-file-selector": "^1.0.0",
+		"react-native-file-selector": "^1.0.2",
 		"react-native-fs": "^2.16.6",
 		"react-native-gesture-handler": "^1.7.0",
 		"react-native-modal": "^11.5.6",
